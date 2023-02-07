@@ -3,7 +3,7 @@
 Data Analyst Student/Digital Craftsman/Musician
 
 Hey! I'm Malcolm Miles 👋
-I'm a Data Analyst Student at the University of Arkansas at Little Rock, I enjoy creating projects and learning new methods to coding. I put countless hours into this craft and am looking to bring value to theworld, one line of code at a time. Most projects are completed with little to 0 help and others built completely from the ground up. From planning and data collection, to designing plots and graphs to solve real world questions to sharpen my skills.
+I'm a Data Analyst Student at the University of Arkansas at Little Rock, I enjoy creating projects and learning new methods to coding. I put countless hours into this craft and am looking to bring value to the world, one line of code at a time. Most projects are completed with little to no help and others built completely from the ground up. From planning and data collection, to designing plots and graphs to solve real world questions to sharpen my skills.
 
 🔭 I’m currently working on a python project that shows the rollercoasters with the highest amount of G-Force
 
